@@ -7,4 +7,4 @@
   coming soon...
 
 ## 👨‍💻 What part am I working on Now?
-  UI design using Figma
+  Coding the Interface using HTML and CSS
