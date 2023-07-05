@@ -10,4 +10,4 @@
   coming soon...
 
 ## 👨‍💻 What part am I working on Now?
-  Coding the Interface using HTML and CSS
+  Taking a short break to learn React and JavaScript 
