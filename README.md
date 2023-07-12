@@ -10,4 +10,4 @@
   coming soon...
 
 ## 👨‍💻 What part am I working on Now?
-  Taking a short break to learn React and JavaScript 
+  Coding the UI with React --> Working with Spotify and Youtube APIs will be next
